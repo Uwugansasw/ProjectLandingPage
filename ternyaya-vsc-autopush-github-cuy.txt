@@ -1,0 +1,3 @@
+Ternya benar VSCode akan autopush ke remote repodi github ketika kita commit sebuah change
+
+Anjay mabar. Tralalelo Tralala 🦈👟
