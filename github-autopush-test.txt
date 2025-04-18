@@ -1,0 +1,3 @@
+apakah github vscode bisa autopush ke remote repo di github setelah commit?
+
+mari kita coba dan lihat bersama-sama.
